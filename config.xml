@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = ”fi.metropolia.antero"
+versionCode=”2"
+version = ”2.0.0">
+<name>phonecap_test1</name>
+<description>
+my first app
+</description>
+<author href="http://users.metropolia.fi/~anteropi" email=”antero.pitkanen@metropolia.fi">
+Antero
+</author>
+<icon src="icon.png" />
+</widget>
